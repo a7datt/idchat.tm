@@ -2,7 +2,7 @@
 const { Telegraf } = require('telegraf');
 
 // ضع التوكن الخاص بالبوت هنا (تحصل عليه من @BotFather)
-const BOT_TOKEN = 'ضع_التوكن_هنا';
+const BOT_TOKEN = '8654851708:AAGNWkq6clAJzxGqsANGimh4lJb_labe58o';
 
 const bot = new Telegraf(BOT_TOKEN);
 
