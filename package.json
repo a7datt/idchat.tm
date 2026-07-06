@@ -1,0 +1,12 @@
+{
+  "name": "telegram-chatid-bot",
+  "version": "1.0.0",
+  "description": "بوت تيليجرام يعطي المستخدم الـ Chat ID الخاص فيه",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
